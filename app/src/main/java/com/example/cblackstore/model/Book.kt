@@ -1,4 +1,10 @@
 package com.example.cblackstore.model
 
-class Book {
-}
+
+data class Book(
+    val id: String,
+    val title: String,
+    val author: String,
+    val price: Double,
+    val imageUrl: String
+)

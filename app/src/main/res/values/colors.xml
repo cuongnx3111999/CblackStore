@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Màu nền chính -->
+    <color name="background_color">#F5F5F5</color> <!-- Màu xám nhạt -->
+
+    <!-- Màu chữ -->
+    <color name="text_primary">#212121</color> <!-- Màu đen đậm -->
+    <color name="text_secondary">#757575</color> <!-- Màu xám đậm -->
+
+    <!-- Màu cho liên kết -->
+    <color name="link_color">#6200EE</color> <!-- Màu tím -->
+
+    <!-- Màu cho nút -->
+    <color name="button_background">#6200EE</color> <!-- Màu tím -->
+    <color name="button_text">#FFFFFF</color> <!-- Màu trắng -->
+
+    <!-- Màu cho EditText -->
+    <color name="edit_text_background_color">#FFFFFF</color> <!-- Màu trắng -->
+    <color name="edit_text_border_color">#CCCCCC</color> <!-- Màu xám nhạt -->
+
+    <!-- Màu bổ sung -->
+    <color name="purple_500">#6200EE</color> <!-- Màu tím đậm -->
+    <color name="purple_700">#3700B3</color> <!-- Màu tím đậm hơn -->
+
+    <!-- Màu cho Border -->
+    <color name="border_light">#E0E0E0</color> <!-- Màu xám nhạt cho viền nhẹ -->
+    <color name="border_medium">#BDBDBD</color> <!-- Màu xám trung bình -->
+    <color name="border_dark">#757575</color> <!-- Màu xám đậm -->
+    <color name="border_focus">#6200EE</color> <!-- Màu tím khi có focus -->
+    <color name="border_error">#B00020</color> <!-- Màu đỏ cho lỗi -->
+    <color name="border_success">#4CAF50</color> <!-- Màu xanh lá cho thành công -->
 </resources>
